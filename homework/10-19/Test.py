@@ -1,4 +1,4 @@
 import math
 
 
-print(math.comb(6, 2))
+print(round(1.756, 2))
