@@ -40,7 +40,6 @@ def main():
             check_password_strength(password_strength)
 
 
-
 # 密码强度检测
 def check_password_strength(password_strength):
     # 密码强度对照表
